@@ -149,7 +149,7 @@ Employees can configure global application settings:
 git clone https://github.com/your-username/hotel-management-dashboard.git
 
 # Navigate to project folder
-cd hotel-management-dashboard
+cd wildoasis
 
 # Install dependencies
 npm install
